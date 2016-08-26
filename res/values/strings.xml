@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShareMe</string>
+    <string name="action_settings">Settings</string>
+    
+    <!--Registration Screen  -->
+    <string name="user_name">My Name :</string>
+    <string name="mobile_num">My Mobile Number :</string>
+    <string name="password">My Password :</string>
+    <string name="confirm_password">Confirm Password :</string>
+    <string name="register_button">Register</string>
+    
+    <!-- Confirm Registration  -->
+	<string name="Enter_confirmation">Enter Pin :</string>
+	<string name="confirm_button">Confirm</string>
+	
+	<!--Adapter loading msg  -->
+	<string name="loading_msg">Loading</string>
+	
+	 <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    
+    <!-- Alert Messages  -->
+    <string name="no_records">No Contacts Available</string>
+    
+     <string-array name="nav_drawer_items">
+        <item >Upload File</item>
+        <item >My Collection</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+    </array>
+    
+    <!--Upload Screen  -->
+    
+    <string name="hint_data_name">Enter The Data Name</string>
+    <string name="hint_about_data">About Data</string>
+    <string name="button_upload">Upload</string>
+    
+    <!--Fragment Screen  -->
+    <string name="button_call_friend">Call Friend</string>
+</resources>
+
+
